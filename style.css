@@ -1,0 +1,43 @@
+body{
+	font-family: 'Roboto', sans-serif;
+    color: grey;
+    background-color: #F6F6F6; 
+}
+.jarrito{
+	height: 100px;
+}
+.parrafo1{
+	color: grey;
+	text-align: justify;
+}
+.imagen1{
+	height: 324px;
+	margin-bottom: 20px;
+}
+.leer{
+	color: purple;
+	text-align: justify;
+}
+.peliculas{
+	text-align: center;
+	margin-right: 50px;
+	margin-left: 50px;
+	margin-bottom: 50px;
+}
+.iconos{
+	display: inline-block;
+	position: relative;
+	right: -450px;
+	top:10px;
+	bottom: 0px;
+}
+.boton, .boton1{
+	display: inline-block;
+	position: relative;
+	right: -205px;
+}
+.boton2{
+	display: inline-block;
+	position: relative;
+	left: 230px;
+}
